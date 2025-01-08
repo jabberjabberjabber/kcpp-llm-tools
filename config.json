@@ -1,0 +1,1 @@
+{"api_url": "http://localhost:5001", "api_password": "", "templates_directory": "templates", "translation_language": "English", "text_completion": false, "temp": 0.2, "top_k": 0, "top_p": 1.0, "rep_pen": 1.1, "min_p": 0.02}
